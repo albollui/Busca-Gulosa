@@ -35,3 +35,5 @@ Apenas necessita do **Python 3.x** instalado na sua máquina (não são necessá
 1. Clone este repositório para a sua máquina local:
    ```bash
    git clone [https://github.com/SEU-UTILIZADOR/busca-gulosa-romenia.git](https://github.com/SEU-UTILIZADOR/busca-gulosa-romenia.git)
+
+   
